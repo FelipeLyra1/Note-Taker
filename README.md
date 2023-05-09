@@ -1,6 +1,7 @@
 # Note-Taker
 
 ##Express.js: Note Taker
+##MIT License 
 
 ## User Story
 
