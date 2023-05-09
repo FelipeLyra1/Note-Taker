@@ -1,7 +1,8 @@
 # Note-Taker
 
-## Express.js: Note Taker
-## MIT License 
+### Express.js: Note Taker
+### MIT License 
+### Repository https://github.com/FelipeLyra1/Note-Taker
 
 ## User Story
 
